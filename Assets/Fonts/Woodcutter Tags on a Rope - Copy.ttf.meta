@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 310777ae267f70b469417d350b56498c
+timeCreated: 1533125425
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Woodcutter Tags on a Rope
+  fontNames:
+  - Woodcutter Tags on a Rope
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

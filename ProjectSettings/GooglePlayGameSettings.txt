@@ -1,0 +1,9 @@
+lastUpgrade=00951
+proj.pluginVersion=0.9.51
+proj.AppId=219631317568
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e219631317568%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+600+Coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_600_coins%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+900+Coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_900_coins%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Get+1200+Coins+--%3e%0d%0a++%3cstring+name%3d%22achievement_get_1200_coins%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+1+Vs+1%2c+500+Win+--%3e%0d%0a++%3cstring+name%3d%22achievement_1_vs_1_500_win%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+1+Vs+1+Ranking+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_1_vs_1_ranking%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Stage+Ranking+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_stage_ranking%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Strike+Ranking+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_strike_ranking%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Spare+Ranking+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_spare_ranking%22+translatable%3d%22false%22%3eCgkIwOSvmLIGEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

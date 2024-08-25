@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d6f0a059154f2794cba4dd9a98ca854d
+timeCreated: 1533125425
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Japanese 3017
+  fontNames:
+  - Japanese 3017
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
