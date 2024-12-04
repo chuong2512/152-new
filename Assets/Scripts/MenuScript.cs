@@ -206,6 +206,8 @@ public class MenuScript : Singleton<MenuScript>
                 print("check remot level " + CheckRemoteLevel);
             }
         }
+        
+        return;
 
         print("Coin1 Price " + coin1_price);
 
@@ -213,7 +215,7 @@ public class MenuScript : Singleton<MenuScript>
         {
             print("Coin1 Price " + coin1_price);
 
-            Coin1.text = coin1_price.ToString();
+            //Coin1.text = coin1_price.ToString();
             print("Coin1 Price " + coin1_price);
         }
 
@@ -221,7 +223,7 @@ public class MenuScript : Singleton<MenuScript>
         {
             print("Coin2 Price " + coin2_price);
 
-            Coin2.text = coin2_price.ToString();
+            //Coin2.text = coin2_price.ToString();
             print("Coin2 Price " + coin2_price);
         }
 
