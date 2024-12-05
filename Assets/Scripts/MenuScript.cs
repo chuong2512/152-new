@@ -8,6 +8,7 @@ using HeurekaGames;
 
 public class MenuScript : Singleton<MenuScript>
 {
+    
     public Button start, playerOneVsOne;
     public InputField player1, player2;
     public GameObject OneVsOnePanel, levelSelectPanel, loadingPanel, MainMenuPanel, ballSelectionPanel;
